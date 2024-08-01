@@ -8,7 +8,7 @@ Hieronder vind je de specificaties waaraan deze applicatie moet doen om het hier
 
 ## Belanghebbenden
 
-Binnen GroteProgrammeer onderscheiden we gebruikers in een hierarchie van systeembeheerder (admin) tot leerling:
+Binnen GroteProgrammeer onderscheiden we gebruikers in een hiërarchie van systeembeheerder (admin) tot leerling:
 * **Systeembeheerder**: dit zijn werknemers van GroteProgrammeer die het systeem beheren en andere gebruikers ondersteunen, zij hebben alle rechten in het systeem.
 * **Afdelingsleider**: elke school wijst één afdelingsleider aan die leerlingen over de klassen verdeelt en bepaalt welke lessen docenten hun leerlingen kunnen aanbieden.
 * **Docent**: elke klas heeft een docent (en een docent heeft meerdere klassen) die aan zijn leerlingen lessen aanbiedt, hun voortgang kan inzien en toetsen kan nakijken.

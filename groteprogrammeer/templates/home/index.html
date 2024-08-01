@@ -1,0 +1,8 @@
+{% extends "layouts/home_layout.html" %}
+
+{% block content %}
+    <h1>Welkom op GroteProgrammeer!</h1>
+
+    Om GroteProgrammeer te gebruiken, moet je eerst <a href="{%  url 'account_signup' %}">een account aanmaken</a>.
+    Heb je al een account? <a href="{% url 'account_login' %}">Log dan in</a>.
+{% endblock %}
